@@ -1,0 +1,6 @@
+commands:
+    docker run -d --name web-service devopsdockeruh/simple-web-service:ubuntu
+    docker exec -it web-service /bin/bash
+
+Secret message:
+    You can find the source code here: https://github.com/docker-hy

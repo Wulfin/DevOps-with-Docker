@@ -1,0 +1,5 @@
+PS C:\Users\Saif\Desktop\DevOps-with-Docker> docker ps -a
+CONTAINER ID   IMAGE     COMMAND                  CREATED              STATUS                     PORTS     NAMES
+3c61d788ccbc   redis     "docker-entrypoint.s…"   About a minute ago   Exited (0) 4 seconds ago             jolly_franklin
+197578fab7b1   httpd     "httpd-foreground"       2 minutes ago        Exited (0) 3 seconds ago             xenodochial_brahmagupta
+03bee7ade539   nginx     "/docker-entrypoint.…"   3 minutes ago        Up 3 minutes               80/tcp    unruffled_banach
